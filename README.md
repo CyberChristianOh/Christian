@@ -11,7 +11,7 @@ I am a Cybersecurity Analytics and Operations student at The Pennsylvania State 
 - **Languages:** Intermediate in Korean
 
 ## Certifications
-- Google Cybersecurity Professional Certificate (Expected December 2024)
+- Google Cybersecurity Professional Certificate ( December 2024)
 
 ## Projects
 ### Database Modernization Project
